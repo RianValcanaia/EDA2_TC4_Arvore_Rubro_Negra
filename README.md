@@ -4,9 +4,8 @@
 
 # <code><strong> Implementação de Árvore Rubro-Negra</strong></code>
 
-<em>Estrutura de Dados</em>
+<em>Implementação de Árvore Rubro-Negra, trabalho complementar da disciplica Estrutura de Dados 2</em>
 
-<!-- adicionar aqui o uso das linguagens que eu passar-->
 [![CPP Usage](https://img.shields.io/badge/C%2B%2B-100%25-blue?style=for-the-badge&logo=c%2B%2B)]()
 [![Status](https://img.shields.io/badge/Status-Concluído-green?style=for-the-badge)]()
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Visite%20meu%20perfil-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rian-carlos-valcanaia-b2b487168/)
